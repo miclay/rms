@@ -1,0 +1,19 @@
+# project
+node_modules/*
+web/static/vendor/*
+
+# tools
+.tmp
+.svn
+.sass-cache
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# system
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

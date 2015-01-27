@@ -1,0 +1,15 @@
+{
+  "name": "rms",
+  "description": "requirement manage system",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~4.10.6",
+    "shelljs": "~0.3.0"
+  },
+  "devDependencies": {
+    "bower": "~1.2.8"
+  },
+  "engines": {
+    "node": ">=0.10.31"
+  }
+}
