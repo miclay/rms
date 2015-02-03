@@ -2,7 +2,9 @@
   "name": "rms",
   "version": "0.0.1",
   "dependencies": {
+    "ejs": "^2.2.4",
     "express": "~4.10.6",
+    "jst": "0.0.13",
     "serve-index": "^1.6.0",
     "shelljs": "~0.3.0"
   },
